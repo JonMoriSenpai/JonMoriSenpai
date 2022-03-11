@@ -8,13 +8,13 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/SidisLiveYT/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/sudeep-jhagar-468373211/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://discordapp.com/users/525761712209526804/" title="Discord Profile"><img width="22" src="images/discord.svg"> Discord</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/SidisLiveYT" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://stackoverflow.com/users/18437076/wolf-street" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/wolfstreetyt/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
+<p align="center"  style="font-family:Comic sans MS">
   Hi, I am Sid is Live , a Small Developer from Developer with 40+ Programming Languages Support and developing new stuff for newbies and World
   <br>
   <br>
@@ -32,7 +32,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center" style="font-family:Comic sans MS">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
@@ -63,7 +63,7 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"  style="font-family:Comic sans MS">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -86,7 +86,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center"  style="font-family:Comic sans MS">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/SidisLiveYT/Video-Extractor" title="Video Extractor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=Video-Extractor&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/SidisLiveYT/Jericho-Player" title="Jericho Player"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=Jericho-Player&theme=react&border_color=61dafb&border_radius=10"></a>
