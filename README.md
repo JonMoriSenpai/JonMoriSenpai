@@ -8,10 +8,10 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/SidisLiveYT/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://discordapp.com/users/525761712209526804/" title="Discord Profile"><img width="22" src="images/discord.svg"> Discord</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/SidisLiveYT" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/wolfstreetyt/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -44,13 +44,12 @@
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Rust" height="25" src="images/sass.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Ruby" height="25" src="images/react-original.svg"></code>
-  <code><img title="Swift" height="25" src="images/redux.svg"></code>
-  <code><img title="Kotlin" height="25" src="images/angularjs.png"></code>
+  <code><img title="Rust" height="25" src="images/rust.svg"></code>
+  <code><img title="Ruby" height="25" src="images/ruby.svg"></code>
+  <code><img title="Swift" height="25" src="images/swift.svg"></code>
+  <code><img title="Kotlin" height="25" src="images/kotlin.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Script" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title="Script" height="25" src="images/script.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
