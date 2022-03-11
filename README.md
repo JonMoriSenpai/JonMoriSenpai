@@ -15,22 +15,20 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
+  Hi, I am Sid is Live , a Small Developer from Developer with 40+ Programming Languages Support and developing new stuff for newbies and World
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🔬 I am studying Cyber Security (CEH) and doing software/backend developing as a hobby
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 I am currently at my 2nd Year of 3 Year Course
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning how to build AI and Frameworks for websites across the globe
   <br>
   💬 Ask me anything about from <a href="https://github.com/SidisLiveYT/SidisLiveYT/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: sidisliveytofficial@gmail.com">sidisliveytofficial@gmail.com</a>
 </p>
 
 <hr>
@@ -46,26 +44,23 @@
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="Rust" height="25" src="images/sass.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
+  <code><img title="Ruby" height="25" src="images/react-original.svg"></code>
+  <code><img title="Swift" height="25" src="images/redux.svg"></code>
+  <code><img title="Kotlin" height="25" src="images/angularjs.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title="Script" height="25" src="images/dotnetcore.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <hr>
 
@@ -95,27 +90,24 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/SidisLiveYT/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/SidisLiveYT/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/SidisLiveYT/Video-Extractor" title="Video Extractor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=Video-Extractor&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/SidisLiveYT/Jericho-Player" title="Jericho Player"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=Jericho-Player&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/SidisLiveYT/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/SidisLiveYT/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/SidisLiveYT/playdl-music-extractor" title="playdl-music-extractor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=playdl-music-extractor&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/SidisLiveYT/youtube-suggest-gen" title="youtube-suggest-gen"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=youtube-suggest-gen&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/SidisLiveYT/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/SidisLiveYT/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/SidisLiveYT/proxies-generator" title="proxies-generator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=proxies-generator&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/SidisLiveYT/discord-botlists" title="Discord Botlists"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=discord-botlists&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/SidisLiveYT/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/SidisLiveYT/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/SidisLiveYT/Jericho-Api" title="Jericho-Api"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=Jericho-Api&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/SidisLiveYT/Jericho-Framework" title="Jericho-Framework"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SidisLiveYT&repo=Jericho-Framework&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
   <a href="https://github.com/SidisLiveYT?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-
--->
