@@ -15,7 +15,7 @@
 </h5>
 <br>
 <p align="center"  style="font-family:Comic sans MS">
-  Hi, I am Sid is Live , a Small Developer from Developer with 40+ Programming Languages Support and developing new stuff for newbies and World
+  Hi, I am Sid is Live , a Small Developer from India with 40+ Programming Languages Support and developing new stuff for newbies and World
   <br>
   <br>
   🔬 I am studying Cyber Security (CEH) and doing software/backend developing as a hobby
